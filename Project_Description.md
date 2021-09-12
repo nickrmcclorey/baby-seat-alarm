@@ -10,7 +10,7 @@
 
 
 # Project Topic
-*Baby Seat Alarm 
+* Baby Seat Alarm 
 
 # Faculty Advisor:
 * TBD
