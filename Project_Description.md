@@ -2,11 +2,15 @@
 
 
 
-# Team Name
+# Team Name:
 
 # Team Members 
-- Nick McClorey (mcclorns@mail.uc.edu)
-- Raeshawn Bart (bartrn@mail.uc.edu)
+- Nick McClorey (mcclorns@mail.uc.edu)  (CS)
+- Raeshawn Bart (bartrn@mail.uc.edu)    (CS)
 
 
 # Project Topic
+*Baby Seat Alarm 
+
+# Faculty Advisor:
+* TBD
