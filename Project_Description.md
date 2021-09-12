@@ -1,5 +1,5 @@
-# Project Discription
-
+# Project Description
+A monitor and alarm that alerts parents if they leave their baby in the car
 
 
 # Team Name: Team Blue
