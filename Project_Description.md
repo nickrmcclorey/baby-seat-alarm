@@ -21,7 +21,7 @@ Team Members:
 - Raeshawn Bart (bartrn@mail.uc.edu)    (CS)
 
 ## Faculty Advisor:
-* TBD
+* David Tashjian
 
 ## Project Topic
 * Baby Seat Alarm 
