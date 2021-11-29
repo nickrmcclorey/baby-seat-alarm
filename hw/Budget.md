@@ -1,3 +1,15 @@
+
+### Expected Expenses
+| Item | Price
+| :---: |  :---: |
+Raspberry Pi | $149 |
+Raspberry Pi Interface | $79 |
+Car Seat  | $50 |
+misc |$80|
+Total | $ 358|
+
+
+
 ### Billable Hours
 
 #### Raeshawn Bart
