@@ -1,5 +1,5 @@
 
-# Professional Biography - raeshawn bart
+# Professional Biography - Raeshawn Bart
 
 
 ## Contact
