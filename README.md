@@ -22,5 +22,5 @@ This repository will store any source code and documentation for our senior proj
 - [Nick McClorey](hw/Nick_McClorey_biography.md)
 - [Raeshawn Bart](hw/Raeshawn_Bart_biography.md)
 
-9. Budget
-10. Appendix
+## [Budget](hw/Budget.md)
+## [Appendix](Appendix.md)
