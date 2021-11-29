@@ -16,8 +16,8 @@ Date | Hours | Activity |
 10/13/2021 | 4 | Did more research into which we can implement the car seat without public disturbance and to keep within reasonable expectations with minimal to no car modifications  |
 10/15/2021 | 3 | Worked on Assignment 6 Milestones, Timelines, and Effort Matrix with the team |
 10/26/2021 | 5| I worked on researching different ways to alert the person when the child is left in the back seat of the car without causing major public disturbance and keeping the car modifications to a minimal  |
-11/12/2021 | 5 | Worked on Assignment 8 Presentation and recorded the presentation  that would be posted on canvas|
-11/15/2021 | 4 | Worked on updating github making sure everything was double checked.|
-11/29/2021 | 4 | Worked on Assignment 9 Final Report |
-Total Hours | 50 | 
+11/12/2021 | 3 | Worked on Assignment 8 Presentation and recorded the presentation  that would be posted on canvas|
+11/15/2021 | 3 | Worked on updating github making sure everything was double checked.|
+11/29/2021 | 3 | Worked on Assignment 9 Final Report |
+Total Hours | 46 | 
 
