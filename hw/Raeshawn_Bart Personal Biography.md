@@ -17,7 +17,7 @@
 -Skills: sql, hmtl,java
 - inputing pricing for materials
 - updating website to fit new database update 
-- coding and updating of sales and quanity programming 
+- coding for sales program
 - coding for router for pathway
 
 ## Project Sought
