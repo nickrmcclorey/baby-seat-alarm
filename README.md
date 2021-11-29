@@ -1,23 +1,26 @@
 # Baby Seat Alarm
 This repository will store any source code and documentation for our senior project
 
-1. Team Names
-    - Nick McClorey (mcclorns@mail.uc.edu)
-    - Raeshawn Bart (bartrn@mail.uc.edu)
-    - Advisor: David Tashjian
+## [Project Description](Project_Description.md)
 
-2. Project Description
-3. User Stories and Design Diagrams
-    - User Stories
-    - Design Diagrams
-    - Diagram Descriptions
-4. Project Tasks and Timeline
-    - Task List
-    - Timeline
-    - Effort Matrix
-5. ABET Concerns Essay
-6. PPT Slideshow
-7. Self-Assessment Essays
-8. Professional Biographies
+
+## User Stories and Design Diagrams
+- [User Stories](User_Stories.md)
+- [Design Diagrams](hw/Diagrams.pdf)
+
+## Project Tasks and Timeline
+- [Task List](hw/Tasklist.md)
+- [Mileston, Timeline and effort Matrix](Mileston_List.pdf)
+
+## [PPT Slideshow](hw/slides.pdf)
+
+## Self-Assessment Essays
+- [Nick McClorey](hw/Nick_McClorey_individual_capstone_assessment.pdf)
+- [Raeshawn Bart](hw/individual_capstone_raeshawn_bart.pdf)
+
+## Professional Biographies
+- [Nick McClorey](hw/Nick_McClorey_biography.md)
+- [Raeshawn Bart](hw/Raeshawn_Bart_biography.md)
+
 9. Budget
 10. Appendix

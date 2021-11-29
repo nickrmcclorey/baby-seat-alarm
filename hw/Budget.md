@@ -33,3 +33,24 @@ Date | Hours | Activity |
 11/29/2021 | 3 | Worked on Assignment 9 Final Report |
 Total Hours | 45 | 
 
+### Nick McClorey Work Log
+Date | Hours | Activity |
+| :---: |  :---: | :--- |
+8/27/2021 | 3 | Searched for facultry advisors and project |
+9/1/2021 | 2 | Assignment 1 - Biography |
+9/6/2021 | 3 | Met with teammates to discuss our project ideas |
+9/8/2021 | 2 | Researched possible project ideas|
+9/8/2021 | 2 | Researched Current solutions to our problem |
+9/15/2021 | 2 | Assignment 2 - Project Description |
+9/17/2021 | 2 | Assignment 3 Due Self Assessment |
+9/20/2021 | 4 | Researched equipment for project|
+9/22/2021 | 2 | Assignment 4 - User Stories and Diagrams|
+9/27/2021 | 3 | Researched alerting mechanisms and options|
+9/29/2021 | 3 | Assignment 5 Due Task Lists |
+10/4/2021 | 2 | Meet with team to discuss design strategies |
+10/6/2021 | 3 | Assignment 6 - Milestone, Timeline, and Effort Matrix |
+10/13/2021 | 2 | Assignment 7 - Project constraints |
+10/27/2021 | 4 | Assignment 8 - Presentation
+11/9/2021 | 2 | Assignment 9 - Peer review assessments
+11/29/2021 | 4 | Assignment 10 - final report |
+Total Hours | 45 | 
