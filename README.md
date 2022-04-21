@@ -1,26 +1,38 @@
 # Baby Seat Alarm
-This repository will store any source code and documentation for our senior project
+This page serves as the final report for our senior project. Use the table of contents below to navigate to the content of our Final Design Report
 
-## [Project Description](Project_Description.md)
+## 1. [Project Description](Project_Description.md)
 
+## 2. [User Interface Specification]()
 
-## User Stories and Design Diagrams
-- [User Stories](User_Stories.md)
-- [Design Diagrams](hw/Diagrams.pdf)
+## 3. [Test Plan]()
+
+## 4. [User Manual](hw/UserManual.md)
+
+## 4. Spring Final Presentation
+### [Recording]()
+### [Slides]()
+
+## 6. [Final Expo Poster](Poster.pdf)
+
+## 7. Assessments
+### Fall Self-Assessments
+- [Nicholas McClorey](hw/Nick_McClorey_individual_capstone_assessment.pdf)
+- [Raeshawn Bart](hw/individual_capstone_raeshawn_bart.pdf)
+### Spring Self-Assessments
+- [Nicholas McClorey]()
+- [Raeshawn Bart]()
+
+## 8. Summery of Hours
+
+## 9. Summery of Expenses
+
 
 ## Project Tasks and Timeline
 - [Task List](hw/Tasklist.md)
 - [Mileston, Timeline and effort Matrix](Mileston_List.pdf)
 
 ## [PPT Slideshow](hw/slides.pdf)
-
-## Self-Assessment Essays
-- [Nick McClorey](hw/Nick_McClorey_individual_capstone_assessment.pdf)
-- [Raeshawn Bart](hw/individual_capstone_raeshawn_bart.pdf)
-
-## Professional Biographies
-- [Nick McClorey](hw/Nick_McClorey_biography.md)
-- [Raeshawn Bart](hw/Raeshawn_Bart_biography.md)
 
 ## [Budget](hw/Budget.md)
 ## [Appendix](Appendix.md)
