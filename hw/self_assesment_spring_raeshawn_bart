@@ -1,0 +1,7 @@
+My contribution was helping with the programming with the arduino for the baby seat alarm. I applied the thing i learned since last fall by looking at information like how to have an interactive weight sensor work and correspond with the car seat and weight
+
+Next we programmed the arduino and used a small weight sensor in which we put between the car seat padding so that when weight is put in the car seat it registers whether or not a child is in the car. So our piece to put together this project was an android app alarm, a car seat, a power source for the arduino and a weight sensor. Some of the obstacles we were having was sending off an alarm that wouldn't cause public disturbance and initial starting of the weight registering code.
+
+We accomplished a full prototype of a baby car seat alarm that shows when the parent left the vicinity and also the weight sensor to be able to tell if there's a child in a car seat.we built upon our knowledge since the fall by having to learn android studios from scratch and incorporating it into our alarm so it works with phones.
+
+the aspect of teamwork was very appealing we worked well together and that we worked 50/50 with this project and helped each other so overall we complemented each other and when one was stuck on something the other provided input and also helped 
