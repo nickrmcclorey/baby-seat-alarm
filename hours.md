@@ -70,7 +70,6 @@ Total Hours | 45 |
 
 Date | Hours | Activity |
 | :---: |  :---: | :--- |
-
 1/24/2022 | 4 | research arudino functionalty and components|
 1/25/2022 | 2 | Work on Test Cases assignment |
 2/8/2022 | 2 | Work on User Docs assignment |
