@@ -14,7 +14,7 @@ This page serves as the final report for our senior project. Use the table of co
 - [Design Diagrams](hw/Diagrams.pdf)
 - [Physical Layout Diagram](img/physical_layout.png)
 
-## 3. [Test Plan]()
+## 3. [Test Plan](Test_Plan.pdf)
 
 ## 4. [User Manual](hw/UserManual.md)
 
@@ -35,13 +35,4 @@ This page serves as the final report for our senior project. Use the table of co
 ## 8. [Summery of Hours](hours.md)
 
 ## 9. [Summery of Expenses](expenses.md)
-
-
-## Project Tasks and Timeline
-- [Task List](hw/Tasklist.md)
-- [Mileston, Timeline and effort Matrix](Mileston_List.pdf)
-
-## [Budget](hw/Budget.md)
-## [Appendix](Appendix.md)
-
 
