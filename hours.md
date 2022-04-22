@@ -65,6 +65,7 @@ Date | Hours | Activity |
 4/20/2022 | 1 | Self-Assessment Assignment |
 4/21/2022 | 5 | Final Design Report |
 Total Hours | 45 |
+
 ### Raeshawn Bart
 
 Date | Hours | Activity |
