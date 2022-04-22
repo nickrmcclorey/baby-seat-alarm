@@ -66,3 +66,22 @@ Date | Hours | Activity |
 4/21/2022 | 5 | Final Design Report |
 Total Hours | 45 |
 ### Raeshawn Bart
+
+Date | Hours | Activity |
+| :---: |  :---: | :--- |
+
+1/24/2022 | 4 | research arudino functionalty and components|
+1/25/2022 | 2 | Work on Test Cases assignment |
+2/8/2022 | 2 | Work on User Docs assignment |
+2/16/2022 | 1.5| Android Studio Research and Experimentation
+2/21/2022 | 3 | Creat Presentation Slidedeck |
+2/24/2022 | 1.5 | Research ways to create WiFi spot from raspberry pi |
+3/2/2022 | 2 | Worked on Poster |
+3/7/2022 | 3 | Configure Raspberry Pi with WiFi via HostAPD |
+3/26/2022 | 4 | Work on Assignment 5: peer-review, poster and slides |
+4/1/2022 | 4 | Product testing |
+4/11/2022 | 2 | Final testing before tech expo |
+4/12/2022 | 4 | Tech Expo: prep, presenting and cleanup |
+4/20/2022 | 2 | Self-Assessment Assignment |
+4/21/2022 | 5 | Final Design Report |
+Total Hours | 40|
