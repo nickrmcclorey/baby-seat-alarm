@@ -30,7 +30,7 @@ This page serves as the final report for our senior project. Use the table of co
 - [Raeshawn Bart](hw/individual_capstone_raeshawn_bart.pdf)
 ### Spring Self-Assessments
 - [Nicholas McClorey](hw/self_assessment_spring_Nick_McClorey.pdf)
-- [Raeshawn Bart]()
+- [Raeshawn Bart](hw/self_assesment_spring_raeshawn_bart.txt)
 
 ## 8. [Summery of Hours](hours.md)
 
