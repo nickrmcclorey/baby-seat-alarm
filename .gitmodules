@@ -1,0 +1,3 @@
+[submodule "car-seat-mobile-app"]
+	path = car-seat-mobile-app
+	url = https://github.com/nickrmcclorey/car-seat-mobile-app.git
