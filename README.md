@@ -64,4 +64,14 @@ This Python program must be run automatically when the system boots up. This is 
 
 Next we need to configure the HostAPD service to create a LAN. We installed HostAPD using the apt package manager and configured it with a [configuration file](/pi_config/hostapd.conf). We enabled this service and observed a LAN named "babyalarm" was created on startup. The network is visible to phones, laptops and any other Wi-Fi enabled device.
 
+### Final Product Pictures
 
+![carseat](/img/carseat.png)
+
+![under](/img/under.png)
+![notification](/img/notification.png)
+
+### Challenges
+The most difficult part of the project was collecting accurate readings from the car seat. We initially tried a couple of weight sensors that we couldn't wire correctly. Other's were too bulky. As computer scientists, this wasn't our area of expertise. However, we eventually found a working, low-profile weight sensor.
+
+Getting up and running with Android Studio was a challenge. Fortunatly, there are plenty of online resources and tutorials that helped us find our way.
